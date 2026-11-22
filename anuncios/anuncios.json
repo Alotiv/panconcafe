@@ -1,0 +1,22 @@
+{
+ "anuncios": [
+  {
+   "id": "hoy-cloe-cumple-1-ano-20261122",
+   "activo": true,
+   "modo": "imagen",
+   "desde": "2026-11-22",
+   "hasta": "2026-11-23",
+   "etiqueta": "Celebración",
+   "titulo": "¡Hoy Cloe cumple 1 año!",
+   "resaltado": "1 año",
+   "mensaje": "Gracias por acompañarnos durante este primer año. Seguimos mejorando para que gestionar tu operación sea cada vez más claro y simple.",
+   "boton": {
+    "texto": "Ver novedades",
+    "enlace": "app:legal"
+   },
+   "imagen": "img/hoy-cloe-cumple-1-ano-20261122-2c2703d3.jpg",
+   "prioridad": 1,
+   "cerrable": false
+  }
+ ]
+}
